@@ -1,0 +1,20 @@
+.img_left, .img_right {
+  border: 5px solid black;
+  width: 550px;
+  height: 270px;
+  margin-left: 10px;
+  margin-right: 10px; }
+
+.img_left {
+  float: left; }
+
+.img_right {
+  float: right; }
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: #ebeced; }
+
+/*# sourceMappingURL=blackhole_style.css.map */

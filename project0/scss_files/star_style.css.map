@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,GAAI;EACA,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,iCACX;IACE,iBAAK,EAAE,KAAK;EAGhB,MAAG;IACC,KAAK,EAAE,IAAI;;AAKnB,IAAI;EACA,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;EACrB,WAAW,EAjBL,+BAA+B;EAkBrC,gBAAgB,EAAC,OAAO",
+"sources": ["star_style.scss"],
+"names": [],
+"file": "star_style.css"
+}

@@ -1,0 +1,20 @@
+$font: "Times New Roman", Times, serif;
+div {
+    font-size: 18px;
+    font-family: $font
+    p {
+        color: black;
+    }
+
+    ol {
+        color: blue;
+    }
+
+}
+
+body{
+    margin-left: 10px;
+    margin-right: 10px;                                                                                                             
+	font-family: $font;
+	background-color:#ebeced;	
+}
